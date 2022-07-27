@@ -1,13 +1,18 @@
-### Hi there 👋, my name is Anjula
 ![I am Python Programmer and a Self-Taught Web Developer.](https://github.com/AY8818/AY8818/blob/main/Anjula%20Yadav.png)
-
+### Hi there 👋, my name is Anjula
 
 I love coding in python and I am also a self-taught Web Developer. I enjoy creating things that live on the web.
 I have worked 1000+ hours learning django, Javascript, Css3 and now I am eager to tackle web development/design challenges to achieve lasting impact on user experience.
 
 I am a Leetcoder as well. I like to challenge myself often and recently I won June leetcoding challenge badge. I have posted detailed solution to  some of the leetcode problems, you can always go and check that out.
 
-Skills: Python / Django / JavaScript / HTML5 / CSS3 / SQL
+## Skills
+1. Python  
+2. Django
+3. HTML5   
+4. JavaScript
+5. CSS3    
+6. SQL
 
 - 🔭 I’m currently working on My own Website. 
 - 🌱 I’m currently learning AWS 
