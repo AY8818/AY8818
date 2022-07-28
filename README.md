@@ -4,7 +4,7 @@
 I love coding in python and I am also a self-taught Web Developer. I enjoy creating things that live on the web.
 I have worked 1000+ hours learning django, Javascript, Css3 and now I am eager to tackle web development/design challenges to achieve lasting impact on user experience.
 
-I am a Leetcoder as well. I like to challenge myself often and recently I won June leetcoding challenge badge. I have posted detailed solution to  some of the leetcode problems, you can always go and check that out.
+I am a Leetcoder as well. I like to challenge myself often and recently I won June leetcoding challenge badge. I have posted detailed solution to  some of the leetcode problems, you can always go and check that out on leetcode, link is provided below.
 
 ## Skills
 1. Python  
