@@ -1,4 +1,4 @@
-![I am Backend Developer]
+
 ### Hi there 👋, I'm a Backend Developer in Progress.
 
 I design and build robust backedn systesm with a strong grasp of web fundamentals, API design, and relational data modeling. My work focuses on writing clean, maintainable code and solving real-world backend problems wiht a system-level mindset.
